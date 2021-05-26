@@ -1,6 +1,6 @@
 # Matrix Data Multiprocessing With Barriers
 
-This repository contains an implementation using a custom barrier.
+[This repository](https://github.com/debemdeboas/mmwb) contains an implementation using a custom barrier.
 The algorithm for the barrier is a two-phase barrier (or a turnstile barrier) [[1]](#1).
 
 ## Classes
